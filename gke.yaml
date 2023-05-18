@@ -17,7 +17,7 @@ spec:
           image: gcr.io/my first project/test-gcpdevops:latest
           ports:
             - containerPort: 5000
-            env:
-              - name: PORT
-                value: "5000"
+          env:
+            - name: PORT
+              value: "5000"
     
