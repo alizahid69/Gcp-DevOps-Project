@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: gcp-devops-gke
-          image: gcr.io/My First Project/test-gcpdevops:latest
+          image: gcr.io/solid-acrobat-387113/test-gcpdevops:latest
           ports:
             - containerPort: 5000
           env:
