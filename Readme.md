@@ -1,3 +1,3 @@
 # This is new repo for Gcp-Devops-Projects
 - simple python flask app
-- dockerfile
+- A docker image has been created
