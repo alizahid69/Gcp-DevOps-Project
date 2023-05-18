@@ -20,4 +20,3 @@ spec:
           env:
             - name: PORT
               value: "5000"
-    
